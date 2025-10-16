@@ -1,6 +1,6 @@
 # Embeddings & Vector DB Tutorial - Example Code
 
-This folder contains example code used in the Djamware tutorial [Everything You Need to Know About Embeddings and Vector Databases]().
+This folder contains example code used in the Djamware tutorial [Everything You Need to Know About Embeddings and Vector Databases](https://www.djamware.com/post/68f0526b82144640bd8d2b45/everything-you-need-to-know-about-embeddings-and-vector-databases).
 
 ## Files
 
